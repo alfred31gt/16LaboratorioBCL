@@ -1,0 +1,37 @@
+.container1{
+		background:url(../images/banner1.jpg)no-repeat center; 
+		height: 500px;
+		padding-left: 5%;
+		padding-right: 5%;
+		width: 100%;
+
+
+}
+.container2{
+	background-color:;
+	height: 500px;
+	padding-left: 5%;
+	padding-right: 5%;
+	width: 100%;
+}
+.borde{
+	border-bottom: solid white 2px;
+}
+.letra1{
+	color: #ffff; 
+	font-size:32px;
+	font-family:arial ;
+}
+.container3{
+	background-color: #037FFB;
+	height:500px;
+	padding-left:5%;
+	padding-right:5%;
+	width: 100%;  
+}
+.text{
+	color: #ffff; 
+	font-size:32px;
+	font-family:arial 11 ;
+	text-align:center;
+}
